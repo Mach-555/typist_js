@@ -295,7 +295,7 @@ Typist_lesson_data["v"] = [{course:"v", data:[{kind:"T", lines:["               
 }
 , {kind:"I", lines:["(4)"]
 }
-, {kind:"D", lines:["Uriah Uriah Uriah; Yetta Yetta Yetta; Ollie Ollie;", "Yetta Yetta Yetta; Ollie Ollie Ollie; Uriah Uriah;", "", "WAlter WAlter Walter; Esther Esther Esther; Isaiah;", "Esther Esther Esther; Walter Walter Walter; Isaiah;", "", "Arthur Arthur Arthur; Lester Lester Lester; Quezon;", "Quezon Quezon Quezon; Arthur Arthur Arthur; Philip;"]
+, {kind:"D", lines:["Uriah Uriah Uriah; Yetta Yetta Yetta; Ollie Ollie;", "Yetta Yetta Yetta; Ollie Ollie Ollie; Uriah Uriah;", "", "Walter Walter Walter; Esther Esther Esther; Isaiah;", "Esther Esther Esther; Walter Walter Walter; Isaiah;", "", "Arthur Arthur Arthur; Lester Lester Lester; Quezon;", "Quezon Quezon Quezon; Arthur Arthur Arthur; Philip;"]
 }
 , {kind:"I", lines:["(5)"]
 }
@@ -465,7 +465,7 @@ Typist_lesson_data["v"] = [{course:"v", data:[{kind:"T", lines:["               
 }
 , {kind:"I", lines:["(5)"]
 }
-, {kind:"D", lines:["frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;", "GOOD WORK will lead to a HAPPT LIFE for you;", "GOOD WORK will lead to a HAPPT LIFE for you;"]
+, {kind:"D", lines:["frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;", "GOOD WORK will lead to a HAPPY LIFE for you;", "GOOD WORK will lead to a HAPPY LIFE for you;"]
 }
 , {kind:"D", lines:["aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj", "The DAILY DRILLS will HELP YOU type with EASE;", "The DAILY DRILLS will HELP YOU type with EASE;", "", "frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;", "GOOD SALARIES are USUALLY PAID to FAST TYPISTS;", "GOOD SALARIES are USUALLY PAID to FAST TYPISTS;"]
 }
